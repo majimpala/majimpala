@@ -8,8 +8,6 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **the forage virtual-experience**
-
 - 👯 I’m looking to collaborate on **python projects**
 
 - 💬 Ask me about **Python**
